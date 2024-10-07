@@ -1,42 +1,77 @@
 {
-    "products": [
-      {
-        "id": "0970",
-        "name": "Samsung",
-        "price": 999,
-        "avaiable": true,
-        "type": "type1",
-        "category": "danhmuc1",
-        "description": "abbb"
-      },
-      {
-        "id": "a1ea",
-        "name": "Samsung",
-        "price": 999,
-        "avaiable": true,
-        "type": "type1",
-        "category": "danhmuc1",
-        "description": "abbb"
-      },
-      {
-        "id": "ac72",
-        "name": "Shoppee",
-        "price": 100,
-        "avaiable": true,
-        "type": "type2",
-        "category": "danhmuc2",
-        "description": "asdsd"
-      },
-      {
-        "name": "Sản phẩm 2",
-        "price": 200,
-        "avaiable": true,
-        "type": "type1",
-        "category": "danhmuc1",
-        "description": "mô tả",
-        "imageUrl": "https://res.cloudinary.com/ecommercer2021/image/upload/v1727245083/pjet24j1zxv1vs1s2s7z.jpg",
-        "id": "2"
-      }
-    ],
-    "users": []
-  }
+  "products": [
+    {
+      "id": "1",
+      "name": "Sản phẩm mẫu 1",
+      "price": 299.99,
+      "pictureUrl": "https://example.com/image1.jpg",
+      "description": "Đây là mô tả cho sản phẩm mẫu 1.",
+      "available": true,
+      "createdAt": "2023-10-01T12:00:00Z"
+    },
+    {
+      "id": "2",
+      "name": "Sản phẩm mẫu 2",
+      "price": 199.99,
+      "pictureUrl": "https://example.com/image2.jpg",
+      "description": "Đây là mô tả cho sản phẩm mẫu 2.",
+      "available": false,
+      "createdAt": "2023-10-02T12:00:00Z"
+    },
+    {
+      "id": "3",
+      "name": "Sản phẩm mẫu 3",
+      "price": 399.99,
+      "pictureUrl": "https://example.com/image3.jpg",
+      "description": "Đây là mô tả cho sản phẩm mẫu 3.",
+      "available": true,
+      "createdAt": "2023-10-03T12:00:00Z"
+    },
+    {
+      "id": "4",
+      "name": "Sản phẩm mẫu 4",
+      "price": 149.99,
+      "pictureUrl": "https://example.com/image4.jpg",
+      "description": "Đây là mô tả cho sản phẩm mẫu 4.",
+      "available": true,
+      "createdAt": "2023-10-04T12:00:00Z"
+    },
+    {
+      "id": "5",
+      "name": "Sản phẩm mẫu 5",
+      "price": 249.99,
+      "pictureUrl": "https://example.com/image5.jpg",
+      "description": "Đây là mô tả cho sản phẩm mẫu 5.",
+      "available": false,
+      "createdAt": "2023-10-05T12:00:00Z"
+    },
+    {
+      "id": "6",
+      "name": "Sản phẩm mẫu 6",
+      "price": 89.99,
+      "pictureUrl": "https://example.com/image6.jpg",
+      "description": "Đây là mô tả cho sản phẩm mẫu 6.",
+      "available": true,
+      "createdAt": "2023-10-06T12:00:00Z"
+    },
+    {
+      "id": "7",
+      "name": "Sản phẩm mẫu 7",
+      "price": 159.99,
+      "pictureUrl": "https://example.com/image7.jpg",
+      "description": "Đây là mô tả cho sản phẩm mẫu 7.",
+      "available": true,
+      "createdAt": "2023-10-07T12:00:00Z"
+    },
+    {
+      "id": "8",
+      "name": "Sản phẩm mẫu 8",
+      "price": 450,
+      "pictureUrl": "https://example.com/image8.jpg",
+      "description": "Đây là mô tả cho sản phẩm mẫu 8.",
+      "available": false,
+      "createdAt": "2023-10-08T12:00:00Z"
+    }
+  ],
+  "users": []
+}
